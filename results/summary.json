@@ -1,0 +1,30 @@
+{
+  "default": {
+    "params": 826433,
+    "best_val": 1.5658078289031983
+  },
+  "tiny": {
+    "params": 116673,
+    "best_val": 1.832482717037201
+  },
+  "big": {
+    "params": 10795841,
+    "best_val": 1.4814122581481934
+  },
+  "overfit": {
+    "params": 4805185,
+    "best_val": 2.9088172245025636
+  },
+  "overfit_dropout": {
+    "params": 4805185,
+    "best_val": 2.455305848121643
+  },
+  "overfit_moredata": {
+    "params": 4805185,
+    "best_val": 1.5498203611373902
+  },
+  "context8": {
+    "params": 811073,
+    "best_val": 1.926098289489746
+  }
+}
